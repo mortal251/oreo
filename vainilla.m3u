@@ -66,6 +66,9 @@ https://alexsports.shop:30444/live/abr_ch4/playlist.m3u8
 #EXTINF:-1, MAX SPORT 4HD 🇧🇬
 http://cloudcdn.tk:80/lCXtnmvvqL9Y1458/v4Pm3nmxu8bA9696/28547
 
+#EXTINF:-1, MAX SPORT 4HD 🇧🇬
+http://vip.carpediemiptv.online:8080/ahmtsmsr/KDgEBbhEnw/12668
+
 #EXTINF:-1, DAZN LALIGA 🇪🇸
 http://212.224.84.217:2200/NL/daznlaliga1-esp/tracks-v1a1/mono.m3u8?token=fwBlCndpe3ZiDXBiN3VjewVhf3FmenNhfnAXeHAtenVmfXtoenNieA%3D%3D
 
@@ -116,6 +119,9 @@ http://fanatik12.xyz:80/live/almandagitim/Fesr6un8Yjcz/63396.ts
 
 #EXTINF:-1, S SPORT 🇹🇷
 http://cloudcdn.tk:80/lCXtnmvvqL9Y1458/v4Pm3nmxu8bA9696/15733
+
+#EXTINF:-1, S SPORT 🇹🇷
+http://vip.carpediemiptv.online:8080/ahmtsmsr/KDgEBbhEnw/20
 
 #EXTINF:-1, S SPORT 🇹🇷
 http://white45.click:2086/live/mario2009/fsdfgfdsxdf/80249.ts
@@ -546,6 +552,9 @@ http://213.13.16.138/shls/LIVE%24Eleven_Sports_1_HD/index.m3u8?device=TVOS_Live&
 #EXTINF:-1, Eleven 1 HD 🇵🇹
 http://cloudcdn.tk:80/lCXtnmvvqL9Y1458/v4Pm3nmxu8bA9696/23325
 
+#EXTINF:-1, Eleven 1 HD 🇵🇹
+http://hjwjaje.com:8080/CHwkZYsCFd/yuhRa9D4bS/73
+
 #EXTINF:-1,ELEVEN SPORT 1 🇵🇹
 http://thehive.tv:25461/kevinburrell/kevinburrell22/5709
 
@@ -554,6 +563,9 @@ http://213.13.16.138/shls/LIVE%24Eleven_Sports_2_HD/index.m3u8?device=TVOS_Live&
 
 #EXTINF:-1, Eleven 2 HD 🇵🇹
 http://cloudcdn.tk:80/lCXtnmvvqL9Y1458/v4Pm3nmxu8bA9696/23320
+
+#EXTINF:-1, Eleven 2 HD 🇵🇹
+http://hjwjaje.com:8080/CHwkZYsCFd/yuhRa9D4bS/75
 
 #EXTINF:-1,ELEVEN SPORT 2 🇵🇹
 http://thehive.tv:25461/kevinburrell/kevinburrell22/5712
@@ -1783,9 +1795,6 @@ http://w.nasvpn.xyz:8080/live/best/best/17048.m3u8
 
 #EXTINF:-1, BEIN SPORT 2 PREMIUM
 http://w.nasvpn.xyz:8080/live/best/best/17047.m3u8
-
-#EXTINF:-1, MEGOGO 1
-https://live.comsaw.com/live/sd-1-3871410.m3u8?txSecret=fdfcd5decc9b3702b2e4007b746994f2&txTime=64000398
 
 #EXTINF:-1, REAL MADRID TV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
