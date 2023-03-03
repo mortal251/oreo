@@ -10,25 +10,25 @@
 #EXTINF:-1 tvg-id="EPSTV.ar" status="online",EPS TV Canal 5 (720p)
 https://live.enhdtv.com:19360/tvplaydigital2/tvplaydigital2.m3u8
 
-#EXTINF:-1,tvg-logo="https://www.larepublica.net/storage/images/2020/08/18/20200818082353.futv.jpg" tvg-name="FUTV OP5(B)" group-title="Costa Rica",FUTV OP5(B)
+#EXTINF:-1 tvg-logo="https://www.larepublica.net/storage/images/2020/08/18/20200818082353.futv.jpg" tvg-name="FUTV OP5(B)" group-title="Costa Rica",FUTV OP5(B)
 http://blackghost.live/play/gnula-819.php?c=102490
-#EXTINF:-1,tvg-logo="https://www.larepublica.net/storage/images/2020/08/18/20200818082353.futv.jpg" tvg-name="FUTV OP6(B)" group-title="Costa Rica",FUTV OP6(B)
+#EXTINF:-1 tvg-logo="https://www.larepublica.net/storage/images/2020/08/18/20200818082353.futv.jpg" tvg-name="FUTV OP6(B)" group-title="Costa Rica",FUTV OP6(B)
 http://138.0.229.88:8000/play/a006/index.m3u8
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/TD_M%C3%A1s_Logo.png" tvg-name="TD+" group-title="Costa Rica",TD+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/TD_M%C3%A1s_Logo.png" tvg-name="TD+" group-title="Costa Rica",TD+
 http://compitv.info:8080/MauricioCavieres231/JTFCEgyLOa/71262
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/TD_M%C3%A1s_Logo.png" tvg-name="TD+ (B)" group-title="Costa Rica",TD+ (B)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/TD_M%C3%A1s_Logo.png" tvg-name="TD+ (B)" group-title="Costa Rica",TD+ (B)
 http://l3dtv.ga:8080/chavaba/F9SzmKr8Aq/184899
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/TD_M%C3%A1s_Logo.png" tvg-name="TD+ (B)" group-title="Costa Rica",TD+ (B2)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/TD_M%C3%A1s_Logo.png" tvg-name="TD+ (B)" group-title="Costa Rica",TD+ (B2)
 http://gigaplayxtream.com:2095/Jesus1/Jesus1/93517
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/TD_M%C3%A1s_2_Logo.svg" tvg-name="TD+2" group-title="Costa Rica",TD+2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/TD_M%C3%A1s_2_Logo.svg" tvg-name="TD+2" group-title="Costa Rica",TD+2
 http://compitv.info:8080/MauricioCavieres231/JTFCEgyLOa/71263
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TD_M%C3%A1s_2_Logo.svg/1280px-TD_M%C3%A1s_2_Logo.svg.png" tvg-name="TD+2 (B)" group-title="Costa Rica",TD+2 (B)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TD_M%C3%A1s_2_Logo.svg/1280px-TD_M%C3%A1s_2_Logo.svg.png" tvg-name="TD+2 (B)" group-title="Costa Rica",TD+2 (B)
 http://mirror.streamhubtv.me:8080/NEservise1999/xNNHxFeXdV/703054
-#EXTINF:-1,tvg-logo="https://pbs.twimg.com/profile_images/1268188590133202945/7ggidUPp_400x400.jpg" tvg-name="Tigo Sports" group-title="Costa Rica",Tigo Sports
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1268188590133202945/7ggidUPp_400x400.jpg" tvg-name="Tigo Sports" group-title="Costa Rica",Tigo Sports
 https://drqskz1ihsia2.cloudfront.net/out/v1/e30fab906b3a4dd396239b592a0ff5a1/index.m3u8
-#EXTINF:-1,tvg-logo="https://pbs.twimg.com/profile_images/1268188590133202945/7ggidUPp_400x400.jpg" tvg-name="Tigo Sports OP2(E)" group-title="Costa Rica",Tigo Sports OP2(E)
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1268188590133202945/7ggidUPp_400x400.jpg" tvg-name="Tigo Sports OP2(E)" group-title="Costa Rica",Tigo Sports OP2(E)
 https://vsd99.mycdn.me/hls/1452359092773.m3u8/sig/8bdF75TCao4/expires/1628737265155/srcIp/201.192.127.42/clientType/0/srcAg/CHROME_ANDROID/mid/3191308099109/video.m3u8?p
-#EXTINF:-1,tvg-logo="https://pbs.twimg.com/profile_images/1268188590133202945/7ggidUPp_400x400.jpg" tvg-name="Tigo Sports OP3(E)" group-title="Costa Rica",Tigo Sports OP3(E)
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1268188590133202945/7ggidUPp_400x400.jpg" tvg-name="Tigo Sports OP3(E)" group-title="Costa Rica",Tigo Sports OP3(E)
 https://dcpkc5ra62uis8pv.azcdn381.net:8443/hls/vfbpau.m3u8?s=kMyC6XCrSsBtRTqRSOE7EA&e=1628674006
 #EXTINF:-1,tvg-logo="https://pbs.twimg.com/profile_images/1268188590133202945/7ggidUPp_400x400.jpg" tvg-name="Tigo Sports OP4(B)" group-title="Costa Rica",Tigo Sports OP4(B)
 http://138.0.229.88:8000/play/a01d/index.m3u8
