@@ -3,7 +3,11 @@
 
 
 
+#EXTINF:-1 tvg-id="Canal26.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CANAL_26.jpg" group-title="NOTICIAS NACIONALES", CANAL 26  24.2
+http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Canal26.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CANAL_26.jpg" group-title="NOTICIAS NACIONALES", CANAL 26  24.2
+http://200.115.193.177/live/26hd-720/playlist.m3u8
 
 
 
