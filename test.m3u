@@ -19,8 +19,7 @@ https://live.enhdtv.com:19360/tvplaydigital2/tvplaydigital2.m3u8
 http://191.102.90.97:8000/play/a09p/index.m3u8
 #EXTINF:-1 tvg-id="BO | Radio Televisión Popular" tvg-name="BO | Radio Televisión Popular" tvg-logo="http://www.rtpbolivia.com.bo/wp-content/uploads/sites/18/2021/05/logo-300x155.png" group-title="BOLIVIA", 493 | RTP || BOLIVIA
 http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8
-#EXTINF:-1 tvg-id="BO | Bolivisión" tvg-name="BO | Bolivisión" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/Bolivisi%C3%B3nHD.png/revision/latest/scale-to-width-down/1200?cb=20220726175333&path-prefix=es" group-title="BOLIVIA", 494 | Bolivisión || BOLIVIA
-http://hidra.live:80/live/LVH60Ml8Hc/O4XSkHm6Yj/304318.m3u8
+
 #EXTINF:-1 tvg-id="BO | Bolivia TV" tvg-name="BO | Bolivia TV" tvg-logo="https://play-lh.googleusercontent.com/dX47fheQl_3mwitKaPpE2W--3jNwf498GQF7-Wvt70nUht6sHhRAq9_RySAeBcHyC2M=w240-h480-rw" group-title="BOLIVIA", 495 | Bolivia TV || BOLIVIA
 https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
 #EXTINF:-1 tvg-id="BO | Asociación de Teledifusoras Bolivianas" tvg-name="BO | Asociación de Teledifusoras Bolivianas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/ATBBo2020Logo.png/150px-ATBBo2020Logo.png" group-title="BOLIVIA", 496 | ATB || BOLIVIA
@@ -31,14 +30,12 @@ http://200.119.222.198:25470/play/a021/index.m3u8
 https://master.tucableip.com//pat/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="BO | Cadena A" tvg-name="BO | Cadena A" tvg-logo="https://www.cadenaa.tv/wp-content/uploads/2022/03/logoaweb.png" group-title="BOLIVIA", 499 | Cadena A || BOLIVIA
 https://5e50264bd6766.streamlock.net/cadenaa/videocadenaa/playlist.m3u8
-#EXTINF:-1 tvg-id="BO | Abya Yala TV" tvg-name="BO | Abya Yala TV" tvg-logo="https://www.prensa-latina.cu/wp-content/uploads/2022/08/abya-yala-tv.jpg" group-title="BOLIVIA", 500 | Abya Yala TV || BOLIVIA
-https://master.tucableip.com/abyayalatv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="BO | Erbol TV" tvg-name="BO | Erbol TV" tvg-logo="https://erbol.com.bo/sites/all/themes/atb/logo-principal.png" group-title="BOLIVIA", 501 | Erbol TV || BOLIVIA
 https://cloud2.streaminglivehd.com:1936/8182/8182/playlist.m3u8
 #EXTINF:-1 tvg-id="BO | Canal 38 de Viacha" tvg-name="BO | Canal 38 de Viacha" tvg-logo="https://play-lh.googleusercontent.com/wBDtKyxJylDf9zGpInH-85vidL1gvvl0clXukW6QWwOwckzeWzvdQFRJB9hvzLPX804=s48-rw" group-title="BOLIVIA", 502 | Canal 38 de Viacha || BOLIVIA
 https://hls.servidor.stream/storage/canal38viacha.m3u8
-#EXTINF:-1 tvg-id="BO | Coral TV" tvg-name="BO | Coral TV" tvg-logo="https://play-lh.googleusercontent.com/4GZtRfAZ36H4pyoxz1htoVE46eRt_M9sj2Y56En4h0Neezca7wFMaX7ec2n9sW5zJZo=s180-rw" group-title="BOLIVIA", 503 | Coral TV || BOLIVIA
-https://tv.mediacp.eu:8081/coraltv/index.m3u8
+
 #EXTINF:-1 tvg-id="BO | TV Universitaria" tvg-name="BO | TV Universitaria" tvg-logo="http://tvmi.com.bo/wp-content/uploads/sites/2/2017/11/logotvu.png" group-title="BOLIVIA", 504 | TV Universitaria || BOLIVIA
 http://136.243.3.70:1935/TvUniversitaria/TvUniversitaria/chunklist_w526827989.m3u8
 #EXTINF:-1 tvg-id="BO | Veo TV" tvg-name="BO | Veo TV" tvg-logo="https://pbs.twimg.com/media/FSNiD51XsAE4Ax1?format=jpg&name=large" group-title="BOLIVIA", 505 | Veo TV || BOLIVIA
@@ -51,8 +48,7 @@ https://panel.seo.tv.bo:3182/live/franzleonellive.m3u8
 https://panel.seo.tv.bo:3337/live/franzbalboa2live.m3u8
 #EXTINF:-1 tvg-id="BO | Renueva Digital TV" tvg-name="BO | Renueva Digital TV" tvg-logo="https://pbs.twimg.com/media/FdMKHCYXkAUC6_r?format=png&name=240x240" group-title="BOLIVIA", 507 | Renueva Digital TV || BOLIVIA
 https://ca2.inka.net.pe/renuevatv/index.m3u8
-#EXTINF:-1 tvg-id="BO | TV Off Travel" tvg-name="BO | TV Off Travel" tvg-logo="https://photos.live-tv-channels.org/tv-logo/tv-off-travel-4346.jpg" group-title="BOLIVIA", 508 | TV Off Travel || BOLIVIA
-https://videohd.sistemareal.com:3290/live/tvoffhdlive.m3u8
+
 #EXTINF:-1 tvg-id="BO | Facetas Televisión" tvg-name="BO | Facetas Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/FTVHD.png/200px-FTVHD.png" group-title="BOLIVIA", 509 | Facetas Televisión || BOLIVIA
 https://master.tucableip.com/ftv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="BO | Marvision TV de Potosi" tvg-name="BO | Marvision TV de Potosi" tvg-logo="https://marvisiontv.com/wp-content/uploads/elementor/thumbs/logoMV-ouzyrkgtwyns6td1jknv46cuol1f6qonx4cd92wb4y.png" group-title="BOLIVIA", 510 | Marvision TV de Potosi || BOLIVIA
@@ -61,30 +57,23 @@ https://stmv.panel.grupolimalive.com/marvision/marvision/playlist.m3u8
 https://stmv.panel.grupolimalive.com/encuentro/encuentro/playlist.m3u8
 #EXTINF:-1 tvg-id="BO | Ceacom TV" tvg-name="BO | Ceacom TV" tvg-logo="https://ceacomtv.com/wp-content/uploads/2021/01/Logo-CEACOM-web.png" group-title="BOLIVIA", 512 | Ceacom TV || BOLIVIA
 https://cloud2.streaminglivehd.com:1936/ceacom/ceacom/playlist.m3u8
-#EXTINF:-1 tvg-id="BO | Megavisión TV" tvg-name="BO | Megavisión TV" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/04/Megavisi%C3%B3n-Bolivia-en-vivo-Online-100x70.png" group-title="BOLIVIA", 513 | Megavisión TV || BOLIVIA
-https://livefocamundo.com:8081/megavisiontv/index.m3u8
-#EXTINF:-1 tvg-id="BO | TV Latina" tvg-name="BO | TV Latina" tvg-logo="https://www.audiokiss.com/tvlatina/wp-content/uploads/sites/7/2021/03/logo-tvlatina.png" group-title="BOLIVIA", 514 | TV Latina || BOLIVIA
-https://master.tucableip.com/live/tvlatinamontero/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="BO | Imperial TV" tvg-name="BO | Imperial TV" tvg-logo="https://imperialradiotv.com/wp-content/uploads/2022/09/logo-imperial-tv-oficial-alfa-fondo-blanco-1024x614.jpg" group-title="BOLIVIA", 515 | Imperial Televisión || BOLIVIA
 https://stmv.panel.grupolimalive.com/imperial/imperial/playlist.m3u8
-#EXTINF:-1 tvg-id="BO | Bo Plus Televisión" tvg-name="BO | Bo Plus Televisión" tvg-logo="https://pbs.twimg.com/media/Fcm6PY-WIAEA1Vv?format=png&name=360x360" group-title="BOLIVIA", 516 | Bo Plus Televisión || BOLIVIA
-https://servilive.com:3342/live/boplustvlive.m3u8
+
 #EXTINF:-1 tvg-id="BO | Ayni Televisión" tvg-name="BO | Ayni Televisión" tvg-logo="https://play-lh.googleusercontent.com/3LYp4KCoxAtKuMgDN5S6kHSxFuA7qxQoUNftznmnzyjcDp4bgqe6CGSQ4YMdFJ4rDAM" group-title="BOLIVIA", 517 | Ayni TV || BOLIVIA
 http://hd.istbolivia.com:1935/aynitv/aynitv/playlist.m3u8
 #EXTINF:-1 tvg-id="BO | Xto TV" tvg-name="BO | Xto TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQfEUIGzraeGwUiQbZr6V7ElcOfcdhljNbB9BlQbA=s900-c-k-c0x00ffffff-no-rj" group-title="BOLIVIA", 518 | Xto TV || BOLIVIA
 http://136.243.3.70:1935/XtoTv/XtoTv/playlist.m3u8
-#EXTINF:-1 tvg-id="BO | Neo TV Canal 31" tvg-name="BO | Neo TV Canal 31" tvg-logo="http://www.tucableip.com/canales/neotv.png" group-title="BOLIVIA", 519 | Neo TV || BOLIVIA
-https://vdo.panelchs.com:3146/multi_live/play.m3u8
+
 #EXTINF:-1 tvg-id="BO | Tu TV" tvg-name="BO | Tu TV" tvg-logo="https://yt3.ggpht.com/U47VmnRDhgLjdt3il6T-qGIRgfsdVefCCbhJO6FdtjoRg3wP3a6_Jcg9zKboHqcrpBD-5hwGug=s88-c-k-c0x00ffffff-no-rj" group-title="BOLIVIA", 520 | Tu TV || BOLIVIA
 https://stmv.panel.grupolimalive.com/tarija/tarija/playlist.m3u8
-#EXTINF:-1 tvg-id="BO | UPP TV" tvg-name="BO | UPP TV" tvg-logo="https://www.redbolivision.tv.bo/wp-content/uploads/2020/10/UPP-ULT.png" group-title="BOLIVIA", 521 | UPP TV || BOLIVIA
-https://d2byzrnrdb259r.cloudfront.net/hls/upptv.m3u8
+
 #EXTINF:-1 tvg-id="BO | Delta Instituto TV" tvg-name="BO | Delta Instituto TV" tvg-logo="https://pbs.twimg.com/media/Fj1NPSYWIAAL6MU?format=png&name=small" group-title="BOLIVIA", 522 | Delta Instituto TV || BOLIVIA
 https://vsrv1.az-streamingserver.com:3068/live/vdsocmnulive.m3u8
-#EXTINF:-1 tvg-id="BO | Carigso Televisión" tvg-name="BO | Carigso Televisión" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs4ChCFlI-i5W3XYw-pFZ6jFR5eEIa--LXALWrzCg4bxt7qtIBOGMoOA4VaoRL76ovO3I&usqp=CAU" group-title="BOLIVIA", 523 | Carigso Televisión || BOLIVIA
-https://stmv1.voxhdnet.com/carigsoradiotv010622/carigsoradiotv010622/playlist.m3u8
-#EXTINF:-1 tvg-id="BO | Zuraca TV" tvg-name="BO | Zuraca TV" tvg-logo="https://zuracatv.com/wp-content/uploads/2022/03/257477285_574967930220591_8545729480647595827_n-removebg-preview.png" group-title="BOLIVIA", 524 | Zuraca TV || BOLIVIA
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/zuracatvhd
+
+
 #EXTINF:-1 tvg-id="BO | TV Show Oruro" tvg-name="BO | TV Show Oruro" tvg-logo="https://play-lh.googleusercontent.com/pN1aZEuwKrzn1ffaVWgnK1-AXQuIcBRqcbW8F2NK24Wdk2evewuglh2sxG2xIHlH6Qw=w240-h480-rw" group-title="BOLIVIA", 525 | TV Show Oruro || BOLIVIA
 http://tv.istbolivia.com:1935/tvshow/tvshow/playlist.m3u8
 #EXTINF:-1 tvg-id="BO | Cristal de Televisión" tvg-name="BO | Cristal de Televisión" tvg-logo="https://pbs.twimg.com/media/FZ6Up_DWAAAIYZY?format=png&name=240x240" group-title="BOLIVIA", 526 | Cristal de Televisión || BOLIVIA
