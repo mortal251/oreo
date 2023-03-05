@@ -40,63 +40,28 @@ https://live.enhdtv.com:19360/tvplaydigital2/tvplaydigital2.m3u8
 
 
 
-#EXTINF:-1 tvg-id="BO | Bolivia TV" tvg-name="BO | Bolivia TV" tvg-logo="https://play-lh.googleusercontent.com/dX47fheQl_3mwitKaPpE2W--3jNwf498GQF7-Wvt70nUht6sHhRAq9_RySAeBcHyC2M=w240-h480-rw" group-title="BOLIVIA", 495 | Bolivia TV || BOLIVIA
-https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="BO | Red Periodistas Asociados Televisión" tvg-name="BO | Red Periodistas Asociados Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Red_pat_new.jpg/220px-Red_pat_new.jpg" group-title="BOLIVIA", 498 | PAT || BOLIVIA
-https://master.tucableip.com//pat/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="BO | Cadena A" tvg-name="BO | Cadena A" tvg-logo="https://www.cadenaa.tv/wp-content/uploads/2022/03/logoaweb.png" group-title="BOLIVIA", 499 | Cadena A || BOLIVIA
-https://5e50264bd6766.streamlock.net/cadenaa/videocadenaa/playlist.m3u8
-
-#EXTINF:-1 tvg-id="BO | Erbol TV" tvg-name="BO | Erbol TV" tvg-logo="https://erbol.com.bo/sites/all/themes/atb/logo-principal.png" group-title="BOLIVIA", 501 | Erbol TV || BOLIVIA
-https://cloud2.streaminglivehd.com:1936/8182/8182/playlist.m3u8
-#EXTINF:-1 tvg-id="BO | Canal 38 de Viacha" tvg-name="BO | Canal 38 de Viacha" tvg-logo="https://play-lh.googleusercontent.com/wBDtKyxJylDf9zGpInH-85vidL1gvvl0clXukW6QWwOwckzeWzvdQFRJB9hvzLPX804=s48-rw" group-title="BOLIVIA", 502 | Canal 38 de Viacha || BOLIVIA
-https://hls.servidor.stream/storage/canal38viacha.m3u8
-
-#EXTINF:-1 tvg-id="BO | TV Universitaria" tvg-name="BO | TV Universitaria" tvg-logo="http://tvmi.com.bo/wp-content/uploads/sites/2/2017/11/logotvu.png" group-title="BOLIVIA", 504 | TV Universitaria || BOLIVIA
-http://136.243.3.70:1935/TvUniversitaria/TvUniversitaria/chunklist_w526827989.m3u8
-#EXTINF:-1 tvg-id="BO | Veo TV" tvg-name="BO | Veo TV" tvg-logo="https://pbs.twimg.com/media/FSNiD51XsAE4Ax1?format=jpg&name=large" group-title="BOLIVIA", 505 | Veo TV || BOLIVIA
-https://stmv.panel.grupolimalive.com/streamb/streamb/playlist.m3u8
-#EXTINF:-1 tvg-id="BO | Seo TV" tvg-name="BO | Seo TV" tvg-logo="https://www.lyngsat.com/logo/tv/ss/seo-tv-bo.png" group-title="BOLIVIA", 506 | Seo TV || BOLIVIA
-https://panel.seo.tv.bo:3314/live/seolive.m3u8
-#EXTINF:-1 tvg-id="BO | Seo TV 2 Kids" tvg-name="BO | Seo TV 2 Kids" tvg-logo="https://www.lyngsat.com/logo/tv/ss/seo-tv-bo.png" group-title="BOLIVIA", 506.2 | Seo TV 2 Kids || BOLIVIA
-https://panel.seo.tv.bo:3182/live/franzleonellive.m3u8
-#EXTINF:-1 tvg-id="BO | Seo TV 3 Novelas" tvg-name="BO | Seo TV 3 Novelas" tvg-logo="https://www.lyngsat.com/logo/tv/ss/seo-tv-bo.png" group-title="BOLIVIA", 506.3 | Seo TV 3 Novelas || BOLIVIA
-https://panel.seo.tv.bo:3337/live/franzbalboa2live.m3u8
-#EXTINF:-1 tvg-id="BO | Renueva Digital TV" tvg-name="BO | Renueva Digital TV" tvg-logo="https://pbs.twimg.com/media/FdMKHCYXkAUC6_r?format=png&name=240x240" group-title="BOLIVIA", 507 | Renueva Digital TV || BOLIVIA
-https://ca2.inka.net.pe/renuevatv/index.m3u8
-
-#EXTINF:-1 tvg-id="BO | Facetas Televisión" tvg-name="BO | Facetas Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/FTVHD.png/200px-FTVHD.png" group-title="BOLIVIA", 509 | Facetas Televisión || BOLIVIA
-https://master.tucableip.com/ftv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="BO | Marvision TV de Potosi" tvg-name="BO | Marvision TV de Potosi" tvg-logo="https://marvisiontv.com/wp-content/uploads/elementor/thumbs/logoMV-ouzyrkgtwyns6td1jknv46cuol1f6qonx4cd92wb4y.png" group-title="BOLIVIA", 510 | Marvision TV de Potosi || BOLIVIA
-https://stmv.panel.grupolimalive.com/marvision/marvision/playlist.m3u8
-#EXTINF:-1 tvg-id="BO | RTVE Canal 50" tvg-name="BO | RTVE Canal 50" tvg-logo="https://redencuentro.com/wp-content/uploads/2021/09/logo_rtve_oficial.png" group-title="BOLIVIA", 511 | Radio TV Encuentro || BOLIVIA
-https://stmv.panel.grupolimalive.com/encuentro/encuentro/playlist.m3u8
-#EXTINF:-1 tvg-id="BO | Ceacom TV" tvg-name="BO | Ceacom TV" tvg-logo="https://ceacomtv.com/wp-content/uploads/2021/01/Logo-CEACOM-web.png" group-title="BOLIVIA", 512 | Ceacom TV || BOLIVIA
-https://cloud2.streaminglivehd.com:1936/ceacom/ceacom/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="BO | Imperial TV" tvg-name="BO | Imperial TV" tvg-logo="https://imperialradiotv.com/wp-content/uploads/2022/09/logo-imperial-tv-oficial-alfa-fondo-blanco-1024x614.jpg" group-title="BOLIVIA", 515 | Imperial Televisión || BOLIVIA
-https://stmv.panel.grupolimalive.com/imperial/imperial/playlist.m3u8
-
-#EXTINF:-1 tvg-id="BO | Ayni Televisión" tvg-name="BO | Ayni Televisión" tvg-logo="https://play-lh.googleusercontent.com/3LYp4KCoxAtKuMgDN5S6kHSxFuA7qxQoUNftznmnzyjcDp4bgqe6CGSQ4YMdFJ4rDAM" group-title="BOLIVIA", 517 | Ayni TV || BOLIVIA
-http://hd.istbolivia.com:1935/aynitv/aynitv/playlist.m3u8
-#EXTINF:-1 tvg-id="BO | Xto TV" tvg-name="BO | Xto TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQfEUIGzraeGwUiQbZr6V7ElcOfcdhljNbB9BlQbA=s900-c-k-c0x00ffffff-no-rj" group-title="BOLIVIA", 518 | Xto TV || BOLIVIA
-http://136.243.3.70:1935/XtoTv/XtoTv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="BO | Tu TV" tvg-name="BO | Tu TV" tvg-logo="https://yt3.ggpht.com/U47VmnRDhgLjdt3il6T-qGIRgfsdVefCCbhJO6FdtjoRg3wP3a6_Jcg9zKboHqcrpBD-5hwGug=s88-c-k-c0x00ffffff-no-rj" group-title="BOLIVIA", 520 | Tu TV || BOLIVIA
-https://stmv.panel.grupolimalive.com/tarija/tarija/playlist.m3u8
-
-#EXTINF:-1 tvg-id="BO | Delta Instituto TV" tvg-name="BO | Delta Instituto TV" tvg-logo="https://pbs.twimg.com/media/Fj1NPSYWIAAL6MU?format=png&name=small" group-title="BOLIVIA", 522 | Delta Instituto TV || BOLIVIA
-https://vsrv1.az-streamingserver.com:3068/live/vdsocmnulive.m3u8
 
 
-#EXTINF:-1 tvg-id="BO | TV Show Oruro" tvg-name="BO | TV Show Oruro" tvg-logo="https://play-lh.googleusercontent.com/pN1aZEuwKrzn1ffaVWgnK1-AXQuIcBRqcbW8F2NK24Wdk2evewuglh2sxG2xIHlH6Qw=w240-h480-rw" group-title="BOLIVIA", 525 | TV Show Oruro || BOLIVIA
-http://tv.istbolivia.com:1935/tvshow/tvshow/playlist.m3u8
-#EXTINF:-1 tvg-id="BO | Cristal de Televisión" tvg-name="BO | Cristal de Televisión" tvg-logo="https://pbs.twimg.com/media/FZ6Up_DWAAAIYZY?format=png&name=240x240" group-title="BOLIVIA", 526 | Cristal de Televisión || BOLIVIA
-http://america.tucableip.com/bolivia/cristaltv/index.m3u8
-#EXTINF:-1 tvg-id="BO | Canal F10" tvg-name="BO | Canal F10" tvg-logo="https://f10.tv.bo/images/Recurso-4.png" group-title="BOLIVIA", 527 | Canal F10 || BOLIVIA
-https://video.live.com.bo:3253/live/f10hdlive.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
