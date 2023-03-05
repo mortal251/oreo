@@ -9,7 +9,8 @@ http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal26.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CANAL_26.jpg" group-title="NOTICIAS NACIONALES", CANAL 26  24.2
 http://200.115.193.177/live/26hd-720/playlist.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/KH-g_YGtjU5GdfVyNZlvi40ld8mN0Nf5KQuRxRvGd_McffdR7wA95zLDn7eV0khH_0o" group-title="DEPORTES", Tigo Sports
+https://w3ertgfdsawerty8765432qwsdfghjsaw4.tunelive.net:3368/stream/play.m3u8
 
 #EXTINF:-1 tvg-id="EPSTV.ar" status="online",EPS TV Canal 5 (720p)
 https://live.enhdtv.com:19360/tvplaydigital2/tvplaydigital2.m3u8
