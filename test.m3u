@@ -2,6 +2,35 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-chno="290" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/400px-The_Simpsons_yellow_logo.svg.png",Los Simpsons 1
+https://srv5.zcast.com.br:443/simpsons/simpsons/chunklist_w469095767.m3u8
+
+#EXTINF:-1 tvg-chno="291" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/400px-The_Simpsons_yellow_logo.svg.png",Los Simpsons 2
+http://85.202.80.14:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/713.m3u8
+
+#EXTINF:-1 tvg-chno="292" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/400px-The_Simpsons_yellow_logo.svg.png",Los Simpsons 3
+http://br0ss.xyz:8090/live/Juanpa/Juanpa123/31990.m3u8
+
+#EXTINF:-1 tvg-chno="293" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/400px-The_Simpsons_yellow_logo.svg.png",Los Simpsons 4
+http://45.90.105.74:25461/live/budtvsports/wTu27rKVNU/38722.m3u8
+
+#EXTINF:-1 tvg-chno="294" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/400px-The_Simpsons_yellow_logo.svg.png",Los Simpsons 5
+http://45.90.105.74:25461/live/budtvsports/wTu27rKVNU/38706.m3u8
+
+#EXTINF:-1 tvg-chno="295" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/400px-The_Simpsons_yellow_logo.svg.png",Los Simpsons 6
+http://tvstarlife.com:25461/live/geovany/geovany/10678.m3u8
+
+#EXTINF:-1 tvg-chno="296" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/400px-The_Simpsons_yellow_logo.svg.png",Los Simpsons 7
+http://tvstarlife.com:25461/live/geovany/geovany/10673.m3u8
+
+#EXTINF:-1 tvg-chno="297" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/400px-The_Simpsons_yellow_logo.svg.png",Los Simpsons 8
+http://tvstarlife.com:25461/live/geovany/geovany/10611.m3u8
+
+#EXTINF:-1 tvg-chno="298" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/400px-The_Simpsons_yellow_logo.svg.png",Los Simpsons 9
+http://tvstarlife.com:25461/live/geovany/geovany/10627.m3u8
+
+#EXTINF:-1 tvg-chno="299" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/400px-The_Simpsons_yellow_logo.svg.png",Los Simpsons 10
+https://srv5.zcast.com.br:443/simpsons/simpsons/chunklist_w1106366740.m3u8
 
 #EXTINF:-1 tvg-id="Canal26.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CANAL_26.jpg" group-title="NOTICIAS NACIONALES", CANAL 26  24.2
 http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
