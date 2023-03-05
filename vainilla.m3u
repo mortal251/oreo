@@ -10,7 +10,7 @@ https://linear-490.frequency.stream/dist/vix/490/hls/master/playlist.m3u8
 http://cloudcdn.tk:80/lCXtnmvvqL9Y1458/v4Pm3nmxu8bA9696/23260
 
 #EXTINF:-1, ESPN DEPORTES 🇺🇸
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15970
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/31960
 
 #EXTINF:-1, SKY SPORT 🇲🇽
 http://laondatv.online:8080/leonardo/123456/447863
@@ -65,6 +65,12 @@ http://80.96.24.248:8000/play/a00f
 
 #EXTINF:-1, M LALIGA 🇪🇸
 http://51.158.36.81:18000/M_LaLiga/hls/playlist.m3u8
+
+#EXTINF:-1,bein SPORTS 1 🇶🇦
+http://89.38.99.141/1/mpegts 
+
+#EXTINF:-1,bein SPORTS 1 🇶🇦
+http://89.38.99.141/1/index.m3u8?
 
 #EXTINF:-1, beIN SPORTS 1 🇶🇦
 http://cloudcdn.tk:80/lCXtnmvvqL9Y1458/v4Pm3nmxu8bA9696/14980
@@ -465,6 +471,48 @@ https://cdn2.livehd720.com/hlsbein2/bein2/playlist.m3u8
 #EXTINF:-1,BEIN 2 🇶🇦
 https://yeszet1x1cdn23.goalarab.site/liveb2/b.2/playlist.m3u8
 
+#EXTINF:-1,bein SPORTS 1 🇶🇦
+http://89.38.99.141/1/mpegts 
+
+#EXTINF:-1,bein SPORTS 2 🇶🇦
+http://89.38.99.141/2/mpegts 
+
+#EXTINF:-1,bein SPORTS 3 🇶🇦
+http://89.38.99.141/3/mpegts 
+
+#EXTINF:-1,bein SPORTS 4 🇶🇦
+http://89.38.99.141/4/mpegts 
+
+#EXTINF:-1,bein SPORTS 5 🇶🇦
+http://89.38.99.141/5/mpegts 
+
+#EXTINF:-1,bein SPORTS 6 🇶🇦
+http://89.38.99.141/6/mpegts 
+
+#EXTINF:-1,bein SPORTS 7 🇶🇦
+http://89.38.99.141/7/mpegts
+
+#EXTINF:-1,bein SPORTS 1 🇶🇦
+http://89.38.99.141/1/index.m3u8 
+
+#EXTINF:-1,bein SPORTS 2 🇶🇦
+http://89.38.99.141/2/index.m3u8 
+
+#EXTINF:-1,bein SPORTS 3 🇶🇦
+http://89.38.99.141/3/index.m3u8 
+
+#EXTINF:-1,bein SPORTS 4 🇶🇦
+http://89.38.99.141/4/index.m3u8 
+
+#EXTINF:-1,bein SPORTS 5 🇶🇦
+http://89.38.99.141/5/index.m3u8 
+
+#EXTINF:-1,bein SPORTS 6 🇶🇦
+http://89.38.99.141/6/index.m3u8 
+
+#EXTINF:-1,bein SPORTS 7 🇶🇦
+http://89.38.99.141/7/index.m3u8
+
 #EXTINF:-1, Eleven 1 HD 🇵🇹
 http://213.13.16.138/shls/LIVE%24Eleven_Sports_1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 
@@ -473,6 +521,9 @@ http://cloudcdn.tk:80/lCXtnmvvqL9Y1458/v4Pm3nmxu8bA9696/23325
 
 #EXTINF:-1, Eleven 1 HD 🇵🇹
 http://hjwjaje.com:8080/CHwkZYsCFd/yuhRa9D4bS/73
+
+#EXTINF:-1, Eleven 1 HD 🇵🇹
+http://asiantv4you.com:80/n2r7EHkOXJv/grRkK8To4IZ/49569
 
 #EXTINF:-1,ELEVEN SPORT 1 🇵🇹
 http://thehive.tv:25461/kevinburrell/kevinburrell22/5709
@@ -485,6 +536,9 @@ http://cloudcdn.tk:80/lCXtnmvvqL9Y1458/v4Pm3nmxu8bA9696/23320
 
 #EXTINF:-1, Eleven 2 HD 🇵🇹
 http://hjwjaje.com:8080/CHwkZYsCFd/yuhRa9D4bS/75
+
+#EXTINF:-1, Eleven 2 HD 🇵🇹
+http://asiantv4you.com/n2r7EHkOXJv/grRkK8To4IZ/49570
 
 #EXTINF:-1,ELEVEN SPORT 2 🇵🇹
 http://thehive.tv:25461/kevinburrell/kevinburrell22/5712
@@ -1028,6 +1082,15 @@ http://2.57.217.197:8080/play/a05n/index.m3u8
 
 #EXTINF:-1,SETANTA 3 🇺🇦
 http://2.57.217.197:8080/play/a07i/index.m3u8
+
+#EXTINF:-1,Setanta 1 Qazaqstan HD 🇰🇿
+http://5.75.248.51:8000/play/a002/index.m3u8
+
+#EXTINF:-1,Setanta 2 Qazaqstan HD 🇰🇿
+http://5.75.248.51:8000/play/a003/index.m3u8
+
+#EXTINF:-1,Setanta Qazaqstan HD 🇰🇿
+http://5.75.248.51:8000/play/a001/index.m3u8
 
 #EXTINF:-1, MATH 🇷🇺
 https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
@@ -1703,11 +1766,23 @@ http://myportal.live:8080/Keepitrealexch/MMCCy6XRMX/449646
 #EXTINF:-1, DAZN F1 🇪🇸
 https://argusport.live:90/DAZN-F1/video.m3u8
 
-#EXTINF:-1, BEIN SPORT 1 PREMIUM
-http://w.nasvpn.xyz:8080/live/best/best/17048.m3u8
+#EXTINF:-1, DAZN F1 🇪🇸
+http://212.224.84.254:2200/NL/daznf1hd-esp/index.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jne3Jo
 
-#EXTINF:-1, BEIN SPORT 2 PREMIUM
-http://w.nasvpn.xyz:8080/live/best/best/17047.m3u8
+#EXTINF:-1, SKY F1 🇬🇧
+https://streaming.f1tv.vip/stream/f1tvlow/chunks.m3u8
+
+#EXTINF:-1, SKY F1 🇬🇧
+http://212.224.84.254:2200/EX/Sky_Sports_F1_FHD-uk/tracks-v1a1/mono.m3u8?token=egBlCndpe3ZiDXBgN3JjewVhf3FmenNhfnAXeHItenVmc3Nje3Ngfg==
+
+#EXTINF:-1, SKY F1 🇬🇧
+https://sbagsgsvv.azureedge.net/live/F1/chunks.m3u8
+
+#EXTINF:-1, SERVUS TV F1 🇩🇪
+https://s6.hopslan.com/servus2/index.m3u8
+
+#EXTINF:-1, ESPN STAR + 🇧🇷
+https://stream.dlivecdn.com/camperooon/1677877893/src/live.m3u8
 
 #EXTINF:-1, REAL MADRID TV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
