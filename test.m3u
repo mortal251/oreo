@@ -2,7 +2,8 @@
 #EXTM3U
 
 
-
+#EXTINF:-1 tvg-id="1387" tvg-name="CMT" tvg-logo="https://i.paste.pics/0e7402074c5a0c79729347bccca02e75.png", CMT | AR
+https://stream-linkyprojects.linky.com.co/hls/cmt.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-chno="293" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/400px-The_Simpsons_yellow_logo.svg.png",Los Simpsons 4
