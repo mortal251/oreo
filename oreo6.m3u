@@ -1,3 +1,5 @@
+#EXTM3U
+
 #EXTINF:-1, 4 Repretel
 http://45.182.20.194:8000/play/a06g/index.m3u8
 #EXTINF:-1, A&E
@@ -282,4 +284,4 @@ http://45.182.20.194:8000/play/a06w/index.m3u8
 http://45.182.20.194:8000/play/a06k/index.m3u8
 #EXTINF:-1, ZooMoo
 http://45.182.20.194:8000/play/a03z/index.m3u8
-10 personas reaccionaron 
+
