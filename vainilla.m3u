@@ -6,23 +6,29 @@ https://linear-489.frequency.stream/dist/vix/489/hls/master/playlist.m3u8
 #EXTINF:-1, VIX 2 🇨🇷
 https://linear-490.frequency.stream/dist/vix/490/hls/master/playlist.m3u8
 
-#EXTINF:-1,ESPN DEPORTES 🇺🇸
-http://45.90.105.74:25461/budtvsports/wTu27rKVNU/15453
-
-#EXTINF:-1, SKY SPORTS 🇲🇽
-http://45.90.105.74:25461/budtvsports/wTu27rKVNU/39089
-
-#EXTINF:-1, SKY SPORTS 🇲🇽
-http://45.90.105.74:25461/budtvsports/wTu27rKVNU/43098
+#EXTINF:-1, LALIGA TV 🇬🇧
+https://ds1.enjoyhd.club/stream/ch89/index.m3u8
 
 #EXTINF:-1, MAX SPORT 4HD 🇧🇬
 http://93.155.227.38:555/m3u8/webmtelsport4_web.m3u8
 
-#EXTINF:-1, S SPORT 🇹🇷
-http://cix.enkalitelihizmet333.com:8080/SahinAnne/ZzGPSrf2wTLb/120785
+#EXTINF:-1,ESPN DEPORTES 🇺🇸
+http://sdmx.us:25461/belfast/belfast/158472
+
+#EXTINF:-1,ESPN DEPORTES 🇺🇸
+http://ghostiptv.vip/162CBD932FCA/62a8bcc1d59f2/44484
+
+#EXTINF:-1, SKY SPORTS 🇲🇽
+http://sdmx.us:25461/belfast/belfast/2121889
+
+#EXTINF:-1, SKY SPORTS 🇲🇽
+http://sdmx.us:25461/belfast/belfast/115045
 
 #EXTINF:-1, Eleven 1 HD 🇵🇹
 http://213.13.16.138/shls/LIVE%24Eleven_Sports_1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+
+#EXTINF:-1, Eleven 1 HD 🇵🇹
+http://7go.xyz:8080/adriano856/eyuie7357/53994
 
 #EXTINF:-1, Eleven 1 HD 🇵🇹
 http://176.57.50.167:25461/692803/264908/7626
@@ -31,7 +37,13 @@ http://176.57.50.167:25461/692803/264908/7626
 http://213.13.16.138/shls/LIVE%24Eleven_Sports_2_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 
 #EXTINF:-1, Eleven 2 HD 🇵🇹
+http://7go.xyz:8080/adriano856/eyuie7357/53997
+
+#EXTINF:-1, Eleven 2 HD 🇵🇹
 http://176.57.50.167:25461/692803/264908/7629
+
+#EXTINF:-1, BEIN 1 🇶🇦
+http://ghostiptv.vip/162CBD932FCA/62a8bcc1d59f2/25346
 
 #EXTINF:-1, TRUE VISIONS 3 🇹🇭
 http://live.apicold.com/streaming/02_epl2_720p/chunklist.m3u8?token=MTMzMzQzNDNhM2Q2ZjYzNmUyMzc1Njk2NjdmNmQ2ZjZmNjQ2NTY2Nzk2YzZlMjQ3MjdmNjA3MzdmMmYyYTMzNzA3NDc0Nzg2
@@ -45,6 +57,9 @@ http://vip.carpediemiptv.online:8080/ahmtsmsr/KDgEBbhEnw/12668
 #EXTINF:-1,DAZN LA LIGA 🇪🇸
 http://80.96.24.248:8000/play/a00f
 
+#EXTINF:-1,DAZN LA LIGA 🇪🇸
+http://sdmx.us:25461/belfast/belfast/220429
+
 #EXTINF:-1, S SPORT 🇹🇷
 http://vip.carpediemiptv.online:8080/ahmtsmsr/KDgEBbhEnw/20
 
@@ -56,15 +71,6 @@ http://white45.click:2086/live/mario2009/fsdfgfdsxdf/80249.ts
 
 #EXTINF:-1, ARENA SPORT 6 🇭🇷
 http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/258518.ts
-
-#EXTINF:-1, K SPORT 1 🇦🇱
-http://srcbe.xyz:8000/live/shgdhgcdhg/suyvfsscghcv/103772.ts
-
-#EXTINF:-1, DAZN 1 🇩🇪
-http://srcbe.xyz:8000/live/shgdhgcdhg/suyvfsscghcv/134845.ts
-
-#EXTINF:-1, DAZN 2 🇩🇪
-http://srcbe.xyz:8000/live/shgdhgcdhg/suyvfsscghcv/134846.ts
 
 #EXTINF:-1, CANAL 10 🇦🇷
 https://videosenlared.fullstreaming.ar:3310/live/canal101live.m3u8
@@ -648,6 +654,18 @@ http://80.251.49.103:8001/play/108
 #EXTINF:-1,Матч!Футбол 3 🇷🇺
 http://80.251.49.103:8001/play/210
 
+#EXTINF:-1,МАТЧ! ФУТБОЛ 1 HD 🇷🇺
+http://80.251.49.103:8003/play/140
+
+#EXTINF:-1,МАТЧ! ФУТБОЛ 2 HD 🇷🇺
+http://80.251.49.103:8003/play/188
+
+#EXTINF:-1,МАТЧ! ФУТБОЛ 2 HD 🇷🇺
+http://80.251.49.103:8003/play/232
+
+#EXTINF:-1,МАТЧ! ФУТБОЛ 3 HD 🇷🇺
+http://80.251.49.103:8001/play/210
+
 #EXTINF:-1, SPORT 1 HD 🇷🇺
 http://88.216.83.245:80/sport1/index.m3u8
 
@@ -1129,6 +1147,18 @@ https://sbagsgsvv.azureedge.net/live/F1/chunks.m3u8
 
 #EXTINF:-1, SERVUS TV F1 🇩🇪
 https://s6.hopslan.com/servus2/index.m3u8
+
+#EXTINF:-1,SPORT 1 HD
+http://79.174.24.254:8002/play/a00m/index.m3u8
+
+#EXTINF:-1,SPORT 2 HD
+http://79.174.24.254:8002/play/a00n/index.m3u8
+
+#EXTINF:-1,SPORT 3 HD
+http://79.174.24.254:8002/play/a00r/index.m3u8
+
+#EXTINF:-1,SPORT 4 HD
+http://79.174.24.254:8002/play/a00s/index.m3u8
 
 #EXTINF:-1, REAL MADRID TV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
